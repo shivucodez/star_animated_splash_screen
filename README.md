@@ -1,16 +1,60 @@
-# splashsctreen
+# Star Animated Splash Screen Demo [Flutter]
 
-A Flutter demo app showcasing a clean splash screen with timed navigation to the home screen, built using modern Flutter practices.
+A Flutter app showcasing a starfield splash screen with a smooth transition and an animated login skeleton UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Preview
 
-A few resources to get you started if this is your first Flutter project:
+> 🎥 App Demo Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can view the demo video here:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Example: asset/starlogo.png
+
+## ✨ Features
+
+- Starfield splash screen using `CustomPainter`
+- Star animation with depth effect
+- Smooth center expansion transition to next screen
+- Animated login skeleton UI
+- Fade & slide-in animations for better UX
+- Lightweight and performant (no external animation packages)
+
+## 🛠 Built With
+
+- **Flutter**
+- **Dart**
+- **CustomPainter**
+- **AnimationController**
+- **Material UI**
+
+## ▶️ Getting Started
+### Prerequisites
+- Flutter SDK installed
+- Dart SDK
+
+### Run the app
+
+```bash
+flutter pub get
+flutter run
+```
+
+## 🏷️ Topics
+
+- flutter
+- flutter-ui
+- flutter-animation
+- custompainter
+- splash-screen
+- login-ui
+- skeleton-loader
+- dart
+
+## 🙌 Author
+Built with Flutter for learning and demonstration purposes.
+Developed by **Shivucodez** using Flutter.
+
+GitHub: https://github.com/shivucodez
+

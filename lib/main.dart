@@ -1,8 +1,8 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:splashsctreen/ExampleScreen.dart';
-import 'package:splashsctreen/StarPainter.dart';
+import 'package:splashsctreen/auth/ExampleScreen.dart';
+import 'package:splashsctreen/splash/StarPainter.dart';
 
 void main() {
   runApp(const MyApp());
