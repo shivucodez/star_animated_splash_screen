@@ -10,7 +10,7 @@ A Flutter app showcasing a starfield splash screen with a smooth transition and 
 
 You can view the demo video here:
 
-Example: ![Star Splash Logo](asset/starlogo.png)
+Example: ![Star Splash Logo](asset/demo.mp4)
 
 ## ✨ Features
 
